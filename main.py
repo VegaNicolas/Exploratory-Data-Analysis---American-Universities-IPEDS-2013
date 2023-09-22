@@ -30,6 +30,9 @@ in other words, do students prefer a university where it is easier for them to b
 https://blog.jovian.com/what-makes-a-student-prefer-a-university-part-i-data-preparation-f581b699dcab
 https://www.kaggle.com/code/akershishukla/eda-students-university-preference
 
+More ideas:
+https://www.coursera.org/articles/data-analytics-projects-for-beginners
+
 """
 
 
